@@ -11,4 +11,6 @@ This project is a basic multi-page website featuring a home page with links to t
 - Writing semantic HTML (headings, lists, figure/figcaption)
 - Structuring a multi-page site with relative links
 - Organizing project files and folders
-- Using Git and GitHub for version control
+- # Using Git and GitHub for version control
+
+# odin-recipes
